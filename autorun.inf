@@ -1,0 +1,6 @@
+[autorun]
+shellexecute=index.html
+;open=ShellRun.exe index.html
+icon=shellrun.exe
+action=Start ShellRun-CD
+label=BLD ME Weekend Songs
